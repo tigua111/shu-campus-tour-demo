@@ -1,0 +1,46 @@
+世新大學 3D 數位校園導覽：第三方元件與資料授權聲明
+Third-party software and data notices
+
+本網站包含下列第三方元件與資料，依各自的授權條款使用。
+
+────────────────────────────────────────
+1. three.js（3D 繪圖引擎，已編入 assets/ 中的主程式）
+   https://threejs.org/
+────────────────────────────────────────
+The MIT License
+
+Copyright © 2010-2026 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+────────────────────────────────────────
+2. Sora 字型（子集，fonts/Sora-VF.subset.woff2）
+────────────────────────────────────────
+SIL Open Font License 1.1，全文見 fonts/Sora-OFL.txt。
+
+────────────────────────────────────────
+3. 地圖資料
+────────────────────────────────────────
+本網站含有來自 OpenStreetMap 的資料，© OpenStreetMap 貢獻者（OpenStreetMap contributors），
+依開放資料庫授權條款（Open Database License, ODbL）1.0 提供。
+  https://www.openstreetmap.org/copyright
+  https://opendatacommons.org/licenses/odbl/1-0/
+
+鄰近建物位置參考內政部國土測繪中心臺灣通用電子地圖，並以其正射影像核對；
+本網站不含該中心的影像或地圖圖檔。
